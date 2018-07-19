@@ -17,7 +17,7 @@ while True:
     else:
         display.show(Image.NO)
 
-# Code for the "transmitter" microbits.
+# Code for the "transmitter" microbits. a
 from microbit imort *
 import radio
 id = "10"
