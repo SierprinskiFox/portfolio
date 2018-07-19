@@ -1,5 +1,5 @@
 # Code for the "detector" microbits. Make sure
-# a speaker is attached in the usual way.
+# a speaker is attached in the usual way. a
 from microbit import *
 import radio
 import music
